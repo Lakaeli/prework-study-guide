@@ -2,9 +2,9 @@
 
 ## Description
 
-This project was created to introduce myself to the following concepts; HTML, CSS, Git and JavaScript.
+This project was created to introduce myself to the following assets; HTML, CSS, Git and JavaScript.
 
-Each subject contains bulleted summary notes, as a reference.
+Each asset contains bulleted summary notes, as a reference.
 
 The friendly reminder ( h2 ) of "Open the Console to see what's happening", is there in case I get stuck, but also as a best practice. 
 
