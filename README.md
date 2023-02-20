@@ -6,7 +6,7 @@ This project was created to introduce myself to the following concepts; HTML, CS
 
 Each subject contains bulleted summary notes, as a reference.
 
-The friendly reminder (in <h2>) of "Open the Console to see what's happening", is there in case I get stuck, but also as a best practice. 
+The friendly reminder ( h2 ) of "Open the Console to see what's happening", is there in case I get stuck, but also as a best practice. 
 
 
 
@@ -19,7 +19,7 @@ N/A
 
 To be used as a study guide reference for the online 2023 Bootcamp Coding course.
 
-The friendly reminder (in <h2>) of "Open the Console to see what's happening", is there in case I get stuck, but also as a best practice. --> Opening the console allows me to see what is going on with JavaScript, and to see if any errors are present. It will also list the topics I learned from the Prework.
+The friendly reminder ( h2 ) of "Open the Console to see what's happening", is there in case I get stuck, but also as a best practice. --> Opening the console allows me to see what is going on with JavaScript, and to see if any errors are present. It will also list the topics I learned from the Prework.
 
 
 ## Credits
